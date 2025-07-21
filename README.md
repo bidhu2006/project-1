@@ -43,3 +43,5 @@ In a real-world simulation for **Atliq Mart**, a growing organic food brand, I b
 
 🙏 Acknowledgments
 Special thanks to Codebasics (Dhaval Patel & Hemanand Vadivel) for the inspiring content and project simulation.
+
+https://app.quadratichq.com/file/04d91748-01d2-4757-9715-e0b3aeaaea33
